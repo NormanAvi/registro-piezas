@@ -1,10 +1,10 @@
 // Configuración del proyecto RegistroPiezas en Firebase.
 // Si necesitas volver a verla: Firebase Console -> Configuración del proyecto (ícono de engrane) -> General -> "Tus apps".
 export const firebaseConfig = {
-  apiKey: "AIzaSyAMK7kY6W83YDZAOcT416P_Zb_YEHGvSB8",
-  authDomain: "registropiezas-e9b62.firebaseapp.com",
-  projectId: "registropiezas-e9b62",
-  storageBucket: "registropiezas-e9b62.firebasestorage.app",
-  messagingSenderId: "777209021153",
-  appId: "1:777209021153:web:eea539a4c6b923b019eda0"
+  apiKey: "AIzaSyDIkx3_L42IEhr3T9qbRblag_TFgp2Nw8s",
+  authDomain: "registropiezas-6039d.firebaseapp.com",
+  projectId: "registropiezas-6039d",
+  storageBucket: "registropiezas-6039d.firebasestorage.app",
+  messagingSenderId: "151928281711",
+  appId: "1:151928281711:web:fde50855cb384be4d10b9a"
 };

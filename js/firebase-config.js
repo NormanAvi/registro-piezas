@@ -6,5 +6,5 @@ export const firebaseConfig = {
   projectId: "registropiezas-e9b62",
   storageBucket: "registropiezas-e9b62.firebasestorage.app",
   messagingSenderId: "777209021153",
-  appId: "1:777209021153:web:b7edd04cf53bbfcc19eda0"
+  appId: "1:777209021153:web:eea539a4c6b923b019eda0"
 };
